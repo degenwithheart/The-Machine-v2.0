@@ -41,7 +41,13 @@ facial-recognition-project
 4. **Add watchlist faces:**
    Place images of faces to be watched in the `facebase/watchlist` directory. These faces will trigger alerts when detected.
 
-5. **Run the application:**
+   ## Setup
+1. Run the `secure_storage.py` script to set up the secure storage, create the admin, and initialize the system:
+    ```
+    python src/secure_storage.py
+    ```
+
+6. **Run the application:**
    Execute the main script to start the facial recognition and tracking process:
    ```
    python src/main.py
