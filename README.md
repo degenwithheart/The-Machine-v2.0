@@ -1,4 +1,4 @@
-# Facial Recognition Project
+# Facial Recognition Project (CURRENTLY BROKEN)
 
 This project implements facial tracking and recognition using the DeepFace library. It captures video input, recognizes known faces, and stores unknown faces for further analysis. The system supports multiple cameras, face tracking, privacy masking, detailed logging, watchlist management, and system health monitoring.
 
