@@ -1,0 +1,13 @@
+deepface
+opencv-python
+SpeechRecognition
+PyAudio
+cryptography
+pyttsx3
+schedule
+numpy
+Pillow
+face_recognition
+tensorflow
+matplotlib
+psutil
