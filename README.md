@@ -2,6 +2,13 @@
 
 “**What if an AI could observe information and decide what matters?**” Imagine an AI that watches information flow by and decides what’s important. This PoC shows how an AI can observe real-time data, extract meaningful signals, and generate a high-level narrative without intervening or taking action. This project was inspired by [@Jo-Dan](https://github.com/Jo-Dan) and their work on [The-Machine](https://github.com/Jo-Dan/The-Machine) and hit TV show Person of Interest's 'Machine'.
 
+### 🧪 Alpha Status Disclaimer
+
+> ⚠️ **This project is currently in ALPHA.**
+
+> Some components are partially implemented or require further development. Certain features such as multi‑camera scaling, voice authentication, and adaptive AI decision-making may not be fully functional yet.
+> You may encounter placeholder logic, missing edge‑case handling, or `TODO` markers throughout the system. Contributions are welcome.
+
 ## 🚀 Key Features
 
 - **AI Integration**: Drop-in architecture supporting multiple AI providers (OpenAI, DeepFace, TensorFlow, etc.)
@@ -167,3 +174,4 @@ For issues and questions:
 - Check AI_INTERFACE.md for technical details
 - Review code comments for implementation guidance
 - Create an issue on GitHub for bugs or feature requests
+
