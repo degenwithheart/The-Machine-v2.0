@@ -5,7 +5,7 @@
 ### 🧪 Alpha Status Disclaimer
 
 > ⚠️ **This project is currently in ALPHA.**
-
+>
 > Some components are partially implemented or require further development. Certain features such as multi‑camera scaling, voice authentication, and adaptive AI decision-making may not be fully functional yet.
 > You may encounter placeholder logic, missing edge‑case handling, or `TODO` markers throughout the system. Contributions are welcome.
 
