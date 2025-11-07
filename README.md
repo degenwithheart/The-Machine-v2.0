@@ -1,6 +1,6 @@
 # The Machine v2.0 - AI-Powered Surveillance System
 
-“**What if an AI could observe information and decide what matters?**” Imagine an AI that watches information flow by and decides what’s important. This PoC shows how an AI can observe real-time data, extract meaningful signals, and generate a high-level narrative without intervening or taking action. This project was inspired by @Jo-Dan and their work on [The-Machine](https://github.com/Jo-Dan/The-Machine) and hit TV show Person of Interest's 'Machine'.
+“**What if an AI could observe information and decide what matters?**” Imagine an AI that watches information flow by and decides what’s important. This PoC shows how an AI can observe real-time data, extract meaningful signals, and generate a high-level narrative without intervening or taking action. This project was inspired by [@Jo-Dan](https://github.com/Jo-Dan) and their work on [The-Machine](https://github.com/Jo-Dan/The-Machine) and hit TV show Person of Interest's 'Machine'.
 
 ## 🚀 Key Features
 
