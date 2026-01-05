@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
+
+# Security
+src/ecc_keys/
+src/secret.key
+src/secure_data.json
+src/secure_data.enc
+
+# Captures
+*.jpg
+*.jpeg
+*.png
+!src/facebase/known_faces/.gitkeep
+!src/facebase/unknown_faces/.gitkeep
+!src/facebase/watchlist/.gitkeep
+
+# Logs
+*.log
+surveillance_log.txt
+
+# AI Models
+.deepface/
+models/
