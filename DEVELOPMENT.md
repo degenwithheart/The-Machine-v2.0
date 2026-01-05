@@ -72,6 +72,7 @@ python test_system.py
 ```
 
 ### Manual Testing
+
 ```bash
 # Test face recognition
 python -c "from src.face_recognition import *; eng = FaceRecognitionEngine(); print(eng.known_names)"
@@ -86,11 +87,13 @@ python ai/impl.py
 ## Performance Optimization
 
 ### Face Recognition
+
 - Resize frames to 0.25x for processing
 - Use 'hog' model (faster than 'cnn')
 - Process every Nth frame if needed
 
 ### Camera Settings
+
 ```python
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1280)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)

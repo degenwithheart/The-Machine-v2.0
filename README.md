@@ -26,7 +26,8 @@ source .venv/bin/activate  # Linux/Mac
 
 ### 3. Add Known Faces
 
-Place clear face images in `src/facebase/known_faces/`
+Place clear face images in `src/facebase/known_faces/`:
+
 - Format: `person_name.jpg`
 - Example: `john_doe.jpg`, `jane_smith.jpg`
 
@@ -39,15 +40,18 @@ python src/main.py
 ## Usage
 
 ### Camera Mode
+
 - Press **'q'** to quit
 - Press **'s'** to save current frame
 - Press **'l'** to save event log
 - Press **'r'** to reload known faces database
 
 ### Admin Panel
+
 Default password: `admin123` ⚠️ **Change immediately!**
 
 **Features:**
+
 - View system statistics
 - Manage face database
 - Configure AI providers
@@ -57,18 +61,22 @@ Default password: `admin123` ⚠️ **Change immediately!**
 ### AI Configuration
 
 **Mock AI** (Default)
+
 - No setup required
 - For testing
 
 **OpenAI GPT**
+
 ```bash
 export OPENAI_API_KEY="your-key-here"
 ```
+
 - Event analysis
 - Threat assessment
 - Summary generation
 
 **DeepFace**
+
 - Age estimation
 - Gender detection
 - Emotion recognition

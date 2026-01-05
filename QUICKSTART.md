@@ -71,13 +71,17 @@ python src/main.py
 ## Common Issues
 
 **"Camera not found"**
+
 → Check if camera is plugged in or in use
 
 **"Module not found"**
+
 → Run: `pip install -r requirements.txt`
 
 **"Low recognition accuracy"**
+
 → Add more photos with different angles
 
 **"DeepFace slow"**
+
 → First run downloads models, subsequent runs are faster
