@@ -164,4 +164,4 @@ MIT License - See LICENSE file
 ## Credits
 
 Inspired by Person of Interest's "The Machine"
-Original concept by @Jo-Dan
+Original concept by [@Jo-Dan](https://github.com/Jo-Dan)
